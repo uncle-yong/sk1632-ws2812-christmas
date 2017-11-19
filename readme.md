@@ -10,6 +10,8 @@ The custom effects are from WS2812FX library and Adafruit NeoPixel Library:
 - https://github.com/kitesurfer1404/WS2812FX
 - https://github.com/adafruit/Adafruit_NeoPixel
 
+Youtube link: https://youtu.be/GamRjbBVx68
+
 There is a small difference between WS2812 and the PL9823 - the color arrangement for WS2812 is GRB, while for PL9823 is RGB.
 
 **You can change the LED type and the numbers of LED in the main.h file.**
